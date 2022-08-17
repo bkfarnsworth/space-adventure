@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Welcome to Space Adventure!</h1>
+      <h1>Welcome to Space Adventure</h1>
       <div>{branch.prompt}</div>
       <br />
       <div>
