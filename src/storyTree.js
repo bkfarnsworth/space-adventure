@@ -6,7 +6,7 @@ const storyTree = {
       {
         trigger: "badge",
         prompt:
-          "You open your comm badge and find a dilithium crystal. What do you do with the dilithium crystal?",
+          "You open your comm badge and find a dilithium crystal. What do you do with the crystal?",
         type: "multiple-choice",
         branches: [
           { trigger: "use the crystal as fuel" },
